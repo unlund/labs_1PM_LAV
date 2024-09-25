@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
     setlocale(0, "");
-    int a;
-    int h;
+    unsigned int a;
+    unsigned int h;
     cout << "Основание: "; cin >> a;
     cout << "Высота: "; cin >> h;
 
